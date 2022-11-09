@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.App{
+  border: blue 10px solid;
+  background-color:blue;
+  color: white;
+  border-radius:20px;
+  width:550px;
+  box-sizing:border-box;
+  position:absolute;
+  left:500px;
+  top:285px;
+  font-size:25px;
+}
+
+button{
+  border:blue solid 5px;
+  background-color:blue;
+  color:white;
+  cursor:pointer;
+  font-size:15px;
+}
